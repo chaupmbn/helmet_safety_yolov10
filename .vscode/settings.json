@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "chaupmbn",
+        "projectKey": "chaupmbn_helmet_safety_yolov10"
+    }
+}
